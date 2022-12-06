@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "server": "npx json-server --no-cors db.json -p 3001"
+  },
+  "devDependencies": {
+    "json-server": "^0.17.1"
+  }
+}

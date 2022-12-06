@@ -1,0 +1,17 @@
+{
+  "assignments": [
+    {
+      "id": 1,
+      "name": "make sure to eat",
+      "completed": false,
+      "tag": "food"
+    },
+    {
+      "id": 2,
+      "name": "Read a chapter of book",
+      "completed": false,
+      "tag": "education"
+    },
+    { "id": 3, "name": "relaxed", "completed": false, "tag": "adventure" }
+  ]
+}
